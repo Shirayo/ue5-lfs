@@ -1,2 +1,3 @@
-# ue5-lfs
-test ue project with lfs
+# MyProject2
+
+Developed with Unreal Engine 5
